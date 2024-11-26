@@ -1,31 +1,24 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/style.css">
-    <title>Flashcard</title>
-</head>
-<body>
-    <main>
-        <section id="container">
-            <!-- <article class="cartao">
-                <div class="cartao__conteudo">
-                    <h3>Programação</h3>
-                    <div class="cartao__conteudo__pergunta">
-                        <p>O que é JavaScript?</p>
-                    </div>
-                    <div class="cartao__conteudo__resposta">
-                        <p>O JavaScript é uma linguagem de programação</p>
-                    </div>
-                </div>
-            </article> -->
-        </section>
-    </main>
-    <footer>
-        <p>Projeto desenvolvido pela Alura, sem fins lucrativos</p>
-    </footer>
-    <script src="app.js"></script>
-    <script src="perguntas.js"></script>
-</body>
-</html>
+perguntas.js: (MUDEM, COLOQUEM AS DE VCS)
+criaCartao(
+'Bíblia',
+'Qual é o livro mais curto da Bíblia?',
+'O livro mais curto da Bíblia é Obadias, que possui apenas 21 versículos.'
+)
+
+criaCartao(
+'Bíblia',
+'Quem escreveu a maioria dos Salmos?',
+'A maioria dos Salmos é atribuída ao rei Davi, embora outros autores também tenham contribuído.'
+)
+
+criaCartao(
+'Bíblia',
+'Qual é o nome do primeiro homem criado segundo a Bíblia?',
+'O primeiro homem criado segundo a Bíblia é Adão.'
+)
+
+criaCartao(
+'Bíblia',
+'Qual é o principal ensinamento do Sermão da Montanha?',
+'O Sermão da Montanha, encontrado em Mateus 5-7, ensina sobre a ética do Reino de Deus, incluindo as bem-aventuranças e a importância do amor e da misericórdia.'
+)
