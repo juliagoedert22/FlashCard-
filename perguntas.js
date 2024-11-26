@@ -1,24 +1,24 @@
 
 criaCartao(
-'Bíblia',
-'Qual é o livro mais curto da Bíblia?',
-'O livro mais curto da Bíblia é Obadias, que possui apenas 21 versículos.'
+'família',
+'Voce ama sua família?',
+'SIIM.'
 )
 
 criaCartao(
-'Bíblia',
-'Quem escreveu a maioria dos Salmos?',
-'A maioria dos Salmos é atribuída ao rei Davi, embora outros autores também tenham contribuído.'
+'Familia ',
+'Como ela é?',
+'Bem grande e unida.'
 )
 
 criaCartao(
-'Bíblia',
-'Qual é o nome do primeiro homem criado segundo a Bíblia?',
-'O primeiro homem criado segundo a Bíblia é Adão.'
+'fampilia',
+'Qual os sobrenomes de sua mãe?',
+'/Goedert e Alberton .'
 )
 
 criaCartao(
-'Bíblia',
-'Qual é o principal ensinamento do Sermão da Montanha?',
-'O Sermão da Montanha, encontrado em Mateus 5-7, ensina sobre a ética do Reino de Deus, incluindo as bem-aventuranças e a importância do amor e da misericórdia.'
+'família',
+'Qual é o nome de seu pai?',
+'Marcos.'
 )
